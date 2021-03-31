@@ -69,7 +69,7 @@ html {
 /* Glavna */
 
 #glavna {
-    background-image: url("./cover.jpg");
+    background-image: url("./assets/webp/cover.webp");
     background-size: cover;
     height: 80vh;
 }
