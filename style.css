@@ -265,6 +265,18 @@ input[type="text"] {
     width: 100%;
 }
 
+@media only screen and (max-width: 700px) {
+    #kontakt {
+        display: none;
+    }
+    #ime {
+        display: block;
+    }
+    #prezime {
+        display: block;
+    }
+}
+
 /* Footer */ 
 
 .footer {
